@@ -1,0 +1,3 @@
+link with c
+
+test motor
